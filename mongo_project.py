@@ -124,8 +124,6 @@ def delete_record():
             print("Document not deleted")
 
 
-
-
 def main_loop():
     while True:
         option = show_menu()
